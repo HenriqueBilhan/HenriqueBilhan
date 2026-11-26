@@ -49,6 +49,13 @@ Tenho interesse em desenvolvimento de software, criação de aplicações, tecno
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=HenriqueBilhan&theme=tokyonight&hide_border=true" />
+---
+
+## 🐍 Snake de contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HenriqueBilhan/HenriqueBilhan/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
